@@ -99,5 +99,9 @@ footer{
 
 footer p{
     font-size: 2vw;
-    font-weight: 400;
+    font-weight: normal;
+}
+
+footer a{
+    font-weight: bolder;
 }
