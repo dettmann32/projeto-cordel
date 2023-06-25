@@ -33,7 +33,7 @@ h1{
     font-family: Passion One;
     font-weight: bold;
     margin: auto;
-    font-size: 136px;
+    font-size: 10vw;
     text-transform: uppercase;
 }
 
@@ -41,7 +41,6 @@ header p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: auto;
     color: white;
-    font-size: 16px;
     padding-bottom: 50px;
 }
 
@@ -49,13 +48,14 @@ section{
     padding-top: 10vh;
     padding-bottom: 10vh;
     padding-left: 30px;
+    font-family: Sriracha;
+    font-family: Sriracha;
+    font-size: 3.5vw;
 }
 
-p{
-    font-family: Sriracha;
-    margin-top: 10px;
-    font-family: Sriracha;
-    font-size: 47px;
+.normal p{
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .imagem{
@@ -75,9 +75,9 @@ p{
 }
 
 .imagem > p{ 
-    max-width: 600px;
+    display: inline-block;
     background-color: rgba(0, 0, 0, 0.363);
-    padding: 10px;
+    padding: 20px;
 }
 
 a{
@@ -97,6 +97,6 @@ footer{
 }
 
 footer p{
-    font-size: 20px;
+    font-size: 2vw;
     font-weight: 400;
 }
